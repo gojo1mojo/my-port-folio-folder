@@ -1,0 +1,293 @@
+#hero-container{
+    display: flex;
+    justify-content: space-around;
+}
+#log-pic{
+   display: flex;
+   justify-content: space-evenly;
+}
+#ul{
+   display: flex;
+   justify-content: flex-end;
+   
+}
+#blogs{
+   margin: 0 33px 0 33px;
+}
+a:link{
+   text-decoration: none;
+}
+header{
+   padding: 0 60px 0 60px;
+}
+section{
+padding: 0 146px 0 146px;
+
+}
+#profile-pic {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+#div-deuxieme{
+   color: rgb(21, 180, 243);
+   padding: 25px;
+}
+#div-premiere{
+   padding: 25px;
+}
+#foot{
+   display: block;
+   justify-content: space-between;
+   
+}
+#mate{
+   padding: 50px;
+}
+
+#beans{
+   height: 300px;
+   width: 300px;
+   border-radius: 4px%;
+}
+#henesy{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+
+
+button{
+    background-color: red;
+    color: white;
+    border: none;
+    height: 36px;
+    padding: 10px;
+    }
+#description{
+    margin-right: 115px;
+    
+}
+#h1{
+   margin-bottom: 40px;
+}
+#p{
+   margin-bottom: 40px;
+}
+ #macroni{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+ }  
+ 
+ #parent-container{
+    display: flex;
+    background-color: white;
+   justify-content: center;
+ }
+ .header{
+    display: flex;
+     justify-content: space-between;
+     
+ }
+
+#span{
+   margin-left: 26px;
+   margin-right: 26px;
+}
+#crying{
+   margin-left: 26px;
+   margin-right: 26px;
+}
+ #optimus{
+    background-color: bisque;
+    color: black;
+    margin-right: 20px;
+    padding: 25px;
+    border-radius: 4px;
+ }
+ #madmax{
+    background-color: bisque;
+    
+    padding: 25px;
+    border-radius: 4px;
+    
+    
+ }
+ #heading-parent{
+   display: flex;
+   justify-content: space-between;
+ }
+ #dash{
+   width: 246px;
+   height: 180px;
+   border-radius: 4px;
+   margin-right: 18px;
+   
+ }
+ #memories{
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+ }
+ #golden{
+   display: flex;
+   justify-content: flex-start;
+ }
+ #monk{
+   width: 246px;
+   height: 180px;
+   border-radius: 4px;
+   margin-right: 18px;
+ }
+ 
+ #science{
+   display: ;
+ }
+
+ #teen{
+   width: 246px;
+   height: 180px;
+   border-radius: 4px;
+ }
+ #titans{
+   display: flex;
+ }
+#priest{
+   background-color: bisque;
+   width: 418px;
+   padding: 20px;
+   border-radius: 4px;
+}
+
+#monkey{
+width: 418px;
+height: 250px;
+border-radius: 4px;
+padding: 25px;
+}
+#damian{
+   background-color: bisque;
+   width: 418px;
+   padding: 25px;
+   border-radius: 4px;
+}
+#metro{
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+
+}
+#luffy{
+   display: flex;
+   justify-content: flex-start;
+}
+
+#line{
+   border-bottom: 1px solid grey;
+   margin-top: 15px;
+   margin-bottom: 31px;
+}
+
+
+#teenage{
+   width: 246px;
+   height: 180px;
+   border-radius: 4px;
+   margin-right: 18px;
+}
+#ull{
+   margin-top: 30px;
+   margin-bottom: 30px;
+}
+
+#spice{
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+}
+#rice{
+   background-color: bisque;
+   width: 418px;
+   padding: 25px;
+   border-radius: 4px;
+}
+#juice{
+   background-color: rgb(14, 14, 63);
+   height: 40px;
+   width: 70px;
+   border-radius: 20px;
+   margin-right: 26px;
+}
+#simon{
+   display: flex;
+   justify-content: flex-start;
+}
+#march{
+   background-color: rgb(14, 14, 63);
+   height: 40px;
+   width: 70px;
+   border-radius: 20px;
+  margin-right: 26px;
+}
+#charm{
+   background-color: rgb(14, 14, 63);
+   height: 40px;
+   width: 70px;
+   border-radius: 20px;
+   margin-right: 26px;
+}
+#charles{
+   padding: 90px;
+   margin-top: 30px;
+}
+#midoriya{
+   display: flex;
+   justify-content: center;
+   margin-bottom: 25px;
+   gap:  30px ;
+
+}
+#robin{
+   width: 35px;
+   height: 35px;
+   margin-right: 10px;
+}
+#cake{
+   width: 30px;
+   height: 30px;
+   margin-right: 10px;
+}
+#maths{
+   width: 50px;
+   height: 40px;
+   margin-right: 10px;
+   padding-top: 0px;
+}
+#phone{
+   width: 30px;
+   height: 30px;
+   margin-right: 10px;
+   
+}
+#zoro{
+  
+   padding: 20px;
+   display: flex;
+   justify-content: space-evenly;
+   margin-right: 100px;
+   height: 50pxs;
+   ;
+   flex-direction: column;
+}
+#mint{
+  display: flex;
+   justify-content: center;
+   
+}
+#mice{
+   display: flex;
+   justify-content: center;
+}
