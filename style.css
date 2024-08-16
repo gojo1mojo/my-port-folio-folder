@@ -48,7 +48,7 @@ padding: 0 146px 0 146px;
 #beans{
    height: 300px;
    width: 300px;
-   border-radius: 4px%;
+   border-radius: 4px;
 }
 #henesy{
    display: flex;
@@ -143,9 +143,7 @@ button{
    margin-right: 18px;
  }
  
- #science{
-   display: ;
- }
+ 
 
  #teen{
    width: 246px;
